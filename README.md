@@ -5,4 +5,5 @@ Particularily useful when reverse enginnering a program and want to see its outp
 
 
 Instalation:
-Simple just add the script via the New Script button in the gui.
+
+Simply just add the script via the New Script button in the gui.
